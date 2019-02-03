@@ -1,2 +1,1 @@
-# ToyMonteCarlo
-Monte Carlo toy model probability density function
+This code uses the acceptance-rejection method to simulate a random variable that converges to a user defined probability density function
